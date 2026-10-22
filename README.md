@@ -6,7 +6,7 @@
 <img width="476" height="655" alt="Снимок экрана 2026-10-22 191603" src="https://github.com/user-attachments/assets/ee1a79f7-3c88-42d6-98e5-cc97cf2d955e" />
 
 # Код
-
+```
 #include <stdio.h>
 #include <math.h>
 
@@ -25,4 +25,4 @@ int homework() {
 	printf("f(x) = %.4f", fx);
 	return 0;
 }
-
+```
