@@ -7,7 +7,6 @@
 
 # Код
 
-```
 #include <stdio.h>
 #include <math.h>
 
@@ -26,4 +25,4 @@ int homework() {
 	printf("f(x) = %.4f", fx);
 	return 0;
 }
-```
+
